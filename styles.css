@@ -1,0 +1,21 @@
+.grid {
+    width: 400px;
+    height: 600px;
+    background-color: gray;
+    position: relative;
+    font-size: 4.5rem;
+    text-align: center;
+}
+.doodler {
+    border-radius: 30px;
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    position: absolute;
+}
+.platform {
+    width: 85px;
+    height: 15px;
+    background-color: green;
+    position: absolute;
+}
